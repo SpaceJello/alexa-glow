@@ -11,15 +11,15 @@
  "five" - 30 minute glow
  "six" - hour glow
  
- ##### Example:
+ Example:
  "Alexa ask glow four" - LEDs will glow for 10 min
  
  see SampleUtterances.json for more ways to trigger each of the times
 
 
 
-##### Set Up:
-If you need help making this skill work on your alexa check out this guide: https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/content/fact-skill2-1
+#### Set Up:
+If you need help making this skill work on your alexa check out this [guide](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/content/fact-skill2-1) from Amazon.
 
 Copy and paste the alexa-glow intent schema, and sample utterances into the appripriate fields in interaction model step
 
@@ -90,5 +90,3 @@ AMAZON.StopIntent stop
 AMAZON.StopIntent stop glow
 ```
 Next all you have to do is replace the index.json in the SpaceFactsSkillsTemplate.json with index.json from alexa-glow.
-
-After that continue following the directions as normal and try it out
