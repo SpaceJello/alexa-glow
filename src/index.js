@@ -10,6 +10,9 @@
  * "four" - ten minute glow
  * "five" - 30 minute glow
  * "six" - hour glow
+ *
+ * Example Use
+ * "Alexa ask glow one"
  */
 
 'use strict';
