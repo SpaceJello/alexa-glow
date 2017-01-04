@@ -1,20 +1,20 @@
 # alexa-glow
 #### Skill to Control Alexa LED Light
 
- Enables the Alexa LED to glow for a set amount of time dependent on user input
+Enables the Alexa LED to glow for a set amount of time dependent on user input
  
  Times are as followed:
- +"one" - one minute glow
- +"two" - two minute glow
- +"three" - five minute glow 
- +"four" - ten minute glow
- +"five" - 30 minute glow
- +"six" - hour glow
++ "one" - one minute glow
++ "two" - two minute glow
++ "three" - five minute glow 
++ "four" - ten minute glow
++ "five" - 30 minute glow
++ "six" - hour glow
  
- Example:
- "Alexa ask glow four" - LEDs will glow for 10 min
+Example:
+"Alexa ask glow four" - LEDs will glow for 10 min
  
- see SampleUtterances.json for more ways to trigger each of the times
+see SampleUtterances.json for more ways to trigger each of the times
 
 
 
