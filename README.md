@@ -23,7 +23,7 @@ If you need help making this skill work on your alexa check out this [guide](htt
 
 Copy and paste the alexa-glow intent schema, and sample utterances into the appripriate fields in interaction model step
 
-alexa-glow intent schema
+alexa-glow IntentSchema
 ```javascript
 {
   "intents": [
@@ -54,7 +54,7 @@ alexa-glow intent schema
   ]
 }
 ```
-alexa-glow sample utterances
+alexa-glow SampleUtterances
 ```javascript
 GetGlowONE one
 GetGlowONE on one
