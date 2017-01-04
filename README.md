@@ -1,2 +1,2 @@
 # alexa-glow
-Makes alexa led glow
+Control Alexa LED Light
