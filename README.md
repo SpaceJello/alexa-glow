@@ -1,5 +1,5 @@
 # alexa-glow
-Skill to Control Alexa LED Light
+#### Skill to Control Alexa LED Light
 
  Enables the Alexa LED to glow for a set amount of time dependent on user input
  
@@ -11,14 +11,14 @@ Skill to Control Alexa LED Light
  "five" - 30 minute glow
  "six" - hour glow
  
- example:
+ ##### Example:
  "Alexa ask glow four" - LEDs will glow for 10 min
  
  see SampleUtterances.json for more ways to trigger each of the times
 
 
 
-Set Up:
+##### Set Up:
 If you need help making this skill work on your alexa check out this guide: https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/content/fact-skill2-1
 
 Copy and paste the alexa-glow intent schema, and sample utterances into the appripriate fields in interaction model step
