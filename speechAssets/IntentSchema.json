@@ -1,0 +1,28 @@
+{
+  "intents": [
+    {
+      "intent": "GetGlowONE"
+    },
+     {
+      "intent": "GetGlowTWO"
+    },
+    {
+      "intent": "GetGlowTHREE"
+    },
+     {
+      "intent": "GetGlowFOUR"
+    },
+     {
+      "intent": "GetGlowFIVE"
+    },
+     {
+      "intent": "GetGlowSIX"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    }
+  ]
+}

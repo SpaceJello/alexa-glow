@@ -1,0 +1,32 @@
+GetGlowONE one
+GetGlowONE on one
+GetGlowONE light one
+GetGlowONE light on one
+GetGlowONE turn on one
+
+GetGlowTWO two
+GetGlowTWO on two
+GetGlowTWO light two
+GetGlowTWO light on two
+GetGlowTWO turn on two
+
+GetGlowTHREE three
+GetGlowTHREE Five Minute Glow
+GetGlowTHREE turn on three
+GetGlowTHREE light three
+
+GetGlowFOUR four
+GetGlowFOUR ten minute Glow
+GetGlowFOUR turn on four
+GetGlowFOUR light four
+
+GetGlowFIVE five
+
+GetGlowSIX six
+GetGlowSIX hour
+
+
+AMAZON.HelpIntent help
+AMAZON.HelpIntent for help
+AMAZON.StopIntent stop
+AMAZON.StopIntent stop glow
