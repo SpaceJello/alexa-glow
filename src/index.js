@@ -69,7 +69,7 @@ var handlers = {
     },
 	//function used for hour glow
     'GetGlowSIX' : function (){
-        time = 60;//max 67
+        time = 60;//max 67 - after that It throws an error
         timeOutput = 'hour glow';
         this.emit('EnableGlow');
 
