@@ -8,6 +8,7 @@
  * "two" - two minute glow
  * "three" - five minute glow 
  * "four" - ten minute glow
+ //Currently having problems with five and six
  * "five" - 30 minute glow
  * "six" - hour glow
  *
@@ -60,14 +61,14 @@ var handlers = {
         this.emit('EnableGlow');
 
     },
-	//function used for 30 minute glow
+	//function used for 30 minute glow// currently not working
     'GetGlowFIVE' : function (){
         time = 30;
         timeOutput = 'thirty minute glow';
         this.emit('EnableGlow');
 
     },
-	//function used for hour glow
+	//function used for hour glow //currently not working
     'GetGlowSIX' : function (){
         time = 60;//max 67 - after that It throws an error
         timeOutput = 'hour glow';
