@@ -1,4 +1,4 @@
-# alexa-glow
+# alexa-glow-skill
 #### Skill to Control Alexa LED Light
 
 Enables the Alexa LED to glow for a set amount of time dependent on user input
